@@ -10,12 +10,12 @@
 
 - <b>Human Resource Management(IBM)</b>
 
-- <b>Fundatmentals of Digital Marketing (Google)</b>
+- <b>Fundamentals of Digital Marketing (Google)</b>
 
 - <b>The Cyberspace and Emerging cybersecurity imperative,FUTO</b>
 
 <hr/>
-<h2>👨‍💻 DATA ANALYSIS TOOLS:</h2>
+<h2>👨‍💻TOOLS:</h2>
 
 - <b>Microsoft Management Studio(SSMS) </b>
 
@@ -26,7 +26,7 @@
 - <b>ORACLE</b>
 
 <hr/>
-<h2>👨‍💻 EXCEL PROJECTS:</h2>
+<!-- <h2>👨‍💻 EXCEL PROJECTS:</h2>-->
 
 <hr/>
 <h2>👨‍💻 SQL PROJECTS:</h2>
