@@ -24,12 +24,20 @@
 - <b>Microsoft PowerBI)</b>
 
 - <b>ORACLE</b>
+<hr/>
+<h2>👨‍💻SQL PROJECTS:</h2>
+
+
+- [2017 Nigerian State Crime Statistics Analysis](https://github.com/Successada/2017_Crime_Stat/tree/main)
+
+
+
+
 
 <!-- <hr/>
  <h2>👨‍💻 EXCEL PROJECTS:</h2>
 
 <hr/>
-<h2>👨‍💻 SQL PROJECTS:</h2>
 
 <hr/>
 <h2>👨‍💻 VISUALIZATIONS:</h2>
