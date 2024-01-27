@@ -25,14 +25,15 @@
 
 - <b>ORACLE</b>
 
-<hr/>
-<!-- <h2>👨‍💻 EXCEL PROJECTS:</h2>-->
+<!-- <hr/>
+ <h2>👨‍💻 EXCEL PROJECTS:</h2>
 
 <hr/>
 <h2>👨‍💻 SQL PROJECTS:</h2>
 
 <hr/>
 <h2>👨‍💻 VISUALIZATIONS:</h2>
+-->
 
 
 
