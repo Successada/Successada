@@ -30,6 +30,7 @@
 
 - [2017 Nigerian State Crime Statistics Analysis](https://github.com/Successada/2017_Crime_Stat/tree/main)
 
+- [Capstone Analysis](https://github.com/Successada/Capstone-Analysis)
 
 
 
